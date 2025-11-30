@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679013405005",
+    "project_id": "sbi-app-bd9ba",
+    "storage_bucket": "sbi-app-bd9ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679013405005:android:eb66aab5d85575b9df2704",
+        "android_client_info": {
+          "package_name": "kz.sbinvest.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhJ8e0MEtKvqp01g-34tmaiT40JTi2p18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+{
+	"name": "MyApp",
+	"expo": {
+		"name": "SBIApp",
+		"slug": "sbiapp",
+		"owner": "turabaev",
+		"icon": "./src/assets/icon.png",
+		"ios": {
+			"bundleIdentifier": "kz.sbi"
+		},
+		"extra": {
+			"eas": {
+				"projectId": "d8f8b3fe-2929-477f-b076-918d2f9e1768"
+			}
+		}
+	}
+}

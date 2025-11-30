@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+npm-debug.log*
+
+# iOS build
+ios/build/
+ios/Pods/
+ios/Podfile.lock
+
+# Android build
+android/.gradle/
+android/app/build/
+android/build/
+*.iml
+*.apk
+
+# Misc
+.DS_Store
+.env
+*.log
+.idea/
+.vscode/
+*.swp
+*.lock
+*.bin
+*.tmp
+
+# Ruby stuff
+vendor/
+Gemfile.lock

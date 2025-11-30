@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./src",
+		"paths": {
+			"@/*": ["*"]
+		},
+		"typeRoots": ["./node_modules/@types", "./src/types"],
+		"jsx": "react-native",
+		"target": "es2017",
+		"module": "esnext",
+		"lib": ["esnext"],
+		"moduleResolution": "node",
+		"allowJs": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"outDir": "dist"
+	}
+}
